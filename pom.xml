@@ -12,9 +12,9 @@
     <url>http://spark.apache.org/</url>
 
     <scm>
-        <url>https://github.com/radanalyticsio/streaming-amqp</url>
-        <connection>scm:git:https://github.com/radanalyticsio/streaming-amqp</connection>
-        <developerConnection>scm:git:git@github.com:radanalyticsio/streaming-amqp.git</developerConnection>
+        <url>https://github.com/Jiri-Kremser/streaming-amqp</url>
+        <connection>scm:git:https://github.com/Jiri-Kremser/streaming-amqp</connection>
+        <developerConnection>scm:git:git@github.com:Jiri-Kremser/streaming-amqp.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
