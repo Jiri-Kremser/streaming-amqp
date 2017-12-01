@@ -21,8 +21,8 @@
     <distributionManagement>
         <repository>
             <id>jboss-nexus-thirdparty</id>
-            <name>JBoss nexus - third party releases</name>
-            <url>http://repository.jboss.org/nexus/content/repositories/thirdparty-releases/</url>
+            <name>JBoss nexus</name>
+            <url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
 
